@@ -1,0 +1,19 @@
+{
+  "name": "ieti-lab7",
+  "version": "1.0.0",
+  "description": "IETI LAB 7",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanManuelHerreraMoya/IEIT-LAB7.git"
+  },
+  "author": "Juan Manuel Herrera Moya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanManuelHerreraMoya/IEIT-LAB7/issues"
+  },
+  "homepage": "https://github.com/JuanManuelHerreraMoya/IEIT-LAB7#readme"
+}
